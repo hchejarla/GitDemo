@@ -11,7 +11,7 @@ Feature: Validate Time-track functionality
     Examples: 
       | dropval  | 
       | Smith, Brett | 
-      | White, Jane | 
+      | White, Jane2 | 
       |hepsiba |
       
     Scenario: Validate Time-track for me Dropdown values
